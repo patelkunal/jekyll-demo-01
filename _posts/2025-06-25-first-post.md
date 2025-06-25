@@ -1,5 +1,5 @@
 ---
-title: "A Dummy Post with Random Images"
+title: "First post written with Github Copilot"
 date: 2025-06-25 12:00:00 +0000
 categories: demo lorem
 ---
