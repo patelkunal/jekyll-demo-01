@@ -3,7 +3,7 @@ author: Kunal Patel
 email: patelkunal89@gmail.com
 description: >- # this means to ignore newlines until 
   A simple/minimal Jekyll site configured by Copilot and hosted on GitHub Pages.
-baseurl: "" # the subpath of your site, e.g. /jekyll-demo-01
+baseurl: "/jekyll-demo-01" # the subpath of your site, e.g. /jekyll-demo-01
 url: "https://patelkunal.github.io" # the base hostname & protocol for your site
 
 # Build settings
