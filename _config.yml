@@ -11,6 +11,7 @@ url: "https://patelkunal.github.io" # the base hostname & protocol for your site
 # plugins:
   # - jekyll-feed
 
-remote_theme: pages-themes/tactile@v0.2.0
+remote_theme: andreondra/jekyll-theme-simplex
+
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+  - jekyll-remote-theme
